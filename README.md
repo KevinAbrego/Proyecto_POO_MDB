@@ -1,5 +1,5 @@
 # Proyecto_POO_MDB
-Este es el repositorio de github para nuestro proyecto, en donde se evidenciara la respectiva colaboracion de cada uno de los miembros del equipo
+
 ![image](https://user-images.githubusercontent.com/79995182/115089981-d773aa80-9ed0-11eb-9057-cbb1d840ff46.png)
 
  ## En este archivo README se pueden encontrar los siguientes elementos:
