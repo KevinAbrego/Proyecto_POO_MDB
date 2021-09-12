@@ -5,6 +5,7 @@ Este es el repositorio de github para nuestro proyecto, en donde se evidenciara 
  ## En este archivo README se pueden encontrar los siguientes elementos:
 
 **1) Los integrantes del trabajo, con su número de grupo teórico**
+
   -Alvarenga Claros	Carlos Alexander	AC211104
 
   -Juan José	Fonseca Guandique	FG203030
