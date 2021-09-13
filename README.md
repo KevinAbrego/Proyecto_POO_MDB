@@ -18,14 +18,17 @@
 
 
 **2) Link Trello**
+
 https://trello.com/b/JbtiA0RQ/primera-fase-proyecto
 
 **3) Link de nuestro MockUp**
+
 https://www.figma.com/proto/2IZDLDd9tfKQ9j8RflAzoY/Mock-Up-Proyecto_POO?node-id=12%3A4&scaling=contain&page-id=0%3A1
 
 (Es importante aclarar que nuestro mock up, no va ubicado en una sola pagina, sino que se pasa tipo diapositiva, ya que consideramos que se veria mas ordenado de ese modo, y asi se pudiera evidenciar de mejor manera el orden de como funcionaria la aplicacion, pero todo el mock up se realizo con el editor , esperamos no haya ningun problema por ese cambio estetico que decidimos implementar) 
 
 **3) Licencia Creative Common Implementada**
+
 -Proyecto_POO está distribuido bajo una Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional.
 
 -Licencia del tipo (Reconocimiento - Compartir Igual).
