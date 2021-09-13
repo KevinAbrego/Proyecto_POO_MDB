@@ -1,4 +1,4 @@
-# Proyecto_POO
+# Proyecto_POO104_G05T
 
 ![image](https://user-images.githubusercontent.com/79995182/115089981-d773aa80-9ed0-11eb-9057-cbb1d840ff46.png)
 
