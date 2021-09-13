@@ -21,4 +21,4 @@
 https://trello.com/b/JbtiA0RQ/primera-fase-proyecto
 
 **3) Link de nuestro MockUp**
-https://www.figma.com/proto/2IZDLDd9tfKQ9j8RflAzoY/Mock-Up-Proyecto_POO?node-id=12%3A4&scaling=contain&page-id=0%3A1
+https://www.figma.com/proto/2IZDLDd9tfKQ9j8RflAzoY/Mock-Up-Proyecto_POO?node-id=28%3A6&scaling=contain&page-id=0%3A1
