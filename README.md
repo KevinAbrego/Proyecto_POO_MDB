@@ -41,3 +41,8 @@ https://youtu.be/WiOLcHMXMwU
 
 -Esta licencia permite el uso comercial de la obra y de las posibles obras derivadas, pero la distribución de éstas se debe hacer con una licencia igual a la que regula la obra original, es decir, la obra derivada que se lleve a cabo a partir de la obra original deberá ser explotada bajo la misma licencia.
 
+**5) PDF del proyecto**
+
+[proyectoPOO_Fase1.pdf](https://github.com/Carlos-Alvarenga721/Proyecto_POO_MDB/files/7158549/proyectoPOO_Fase1.pdf)
+
+
