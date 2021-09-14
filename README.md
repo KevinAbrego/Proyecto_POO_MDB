@@ -4,9 +4,11 @@
 
  ## En este archivo README se pueden encontrar los siguientes elementos:
 
-**1) Los integrantes del trabajo, con su número de grupo teórico**
+**1) Los integrantes del trabajo, con su número de carnet**
 
-  -Alvarenga Claros	Carlos Alexander	(AC211104)
+  Todos los miembros de este equipo pertenecen al grupo teorico 05
+  
+  -Alvarenga Claros	Carlos Alexander	(AC211104) 
 
   -Fonseca Guandique Juan José	(FG203030)
 
